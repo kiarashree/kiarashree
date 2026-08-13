@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi there 👋 I'm Kiara Shree
 
-<!--
-**kiarashree/kiarashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Financial Data Science · Machine Learning · Applied AI · Quantitative Finance
 
-Here are some ideas to get you started:
+MSc Financial Data Science graduate from **UCD Michael Smurfit Graduate Business School**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with **data, models and a slightly unreasonable number of Python notebooks** - from machine learning and AI agents to analytics, predictive modelling and forecasting.
+
+I like my **data clean, models tested, and p-values preferably significant.**
+
+## Featured Projects
+*Because “trust me, the model works” isn't quite enough.*
+
+| Project | What I Built | Highlight |
+|---|---|---|
+| 🧠 **Cybersecurity AI Intelligence Pipeline** | Agentic AI pipeline for collecting, processing and retrieving cybersecurity intelligence | **500+ sources · 25+ features · CrewAI · Crawl4AI · Pinecone** |
+| 🌍 **Climate Risk Predictive Modelling** | ML pipeline analysing large-scale firm and market data | **400K+ records · Machine Learning · Max Drawdown ↓ 32%** |
+| 🤖 **LLM AI Assistant** | LLM-powered conversational application using NLP | **Python · Hugging Face · Phi-1.5 · Gradio** |
+| 📈 **CryptoPunks Pricing & Trading** | Statistical pricing model and systematic trading strategy | **R² 0.895 · 107 trades · Avg. Return 5.82%** |
+| 📉 **Portfolio Optimisation** | Mean-variance and factor-based portfolio construction with out-of-sample evaluation | **Fama-French · Best OOS Sharpe: 0.692** |
+
+> Repositories and full project documentation are being added progressively.
+
+## Tech Stack
+
+**Programming & Data**  
+`Python` · `SQL` · `Pandas` · `NumPy` · `Excel` · `Data Validation`
+
+**Machine Learning & AI**  
+`Machine Learning` · `Scikit-learn` · `TensorFlow` · `XGBoost` · `Predictive Analytics` · `NLP` · `FinBERT` · `VADER` · `Hugging Face` · `RAG` · `CrewAI`
+
+**Analytics & Visualisation**  
+`Power BI` · `Data Visualisation` · `Business Intelligence` · `Statistical Analysis` · `Feature Engineering`
+
+**Data & Engineering**  
+`REST APIs` · `Django REST` · `Pinecone` · `Crawl4AI` · `Data Governance` · `Git` · `GitHub` · `Jira`
+
+**Finance & Quant**  
+`Risk Analytics` · `Financial Analysis` · `Portfolio Optimisation` · `CAPM` · `Fama-French` · `DCF` · `Black-Scholes` · `Econometrics` · `Structured Finance`
+
+## Also in My Project Archive
+
+`Econometric Analysis` · `Options & Delta Hedging` · `Business Valuation` · `AI-Driven Banking`
+
+## Currently Exploring
+
+`Applied AI` · `Machine Learning` · `Agentic AI` · `Data Engineering` · `Predictive Analytics`
+
+## Let's Connect
+
+📍 **Dublin, Ireland**  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kiara-shree25/)  
+🌐 **Portfolio Website:** Coming soon
