@@ -4,12 +4,13 @@
 
 MSc Financial Data Science graduate from **UCD Michael Smurfit Graduate Business School**.
 
-I work with **data, models and a slightly unreasonable number of Python notebooks** - from machine learning and AI agents to analytics, predictive modelling and forecasting.
-
-I like my **data clean, models tested, and p-values preferably significant.**
+## What I work on
+- **Machine learning and predictive modelling** for financial and business problems
+- **Forecasting and analytics** grounded in statistical and economic reasoning
+- **AI agents** and applied AI engineering
+- **Finance sector applications**, including structured finance and quantitative methods
 
 ## Featured Projects
-*Because “trust me, the model works” isn't quite enough.*
 
 | Project | What I Built | Highlight |
 |---|---|---|
@@ -46,8 +47,10 @@ I like my **data clean, models tested, and p-values preferably significant.**
 
 `Applied AI` · `Machine Learning` · `Agentic AI` · `Data Engineering` · `Predictive Analytics`
 
+## Open to
+Data science, AI engineering and analyst roles, including relocation
+
 ## Let's Connect
 
 📍 **Dublin, Ireland**  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kiara-shree25/)  
-🌐 **Portfolio Website:** Coming soon
